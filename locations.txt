@@ -1,4 +1,7 @@
 "pimer archivo prueba"
 2da linea
 3ra linea desde la nube
+<<<<<<< HEAD
 4ta linea
+=======
+>>>>>>> 5b165c531c59bfda2fa84b54e0e9012282c6ec32
